@@ -15,7 +15,7 @@
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Haseeb+Z!;Experienced+Unity+Developer...;7%2B+years+of+coding+experience;Game+Dev+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Haseeb+Z;Hyper-Casual;FPS;TPS;Puzzle;Adventure;RPG;Strategy;Simulation;Racing;Sports;Fighting;MOBA;Open+World;Platformer;Roguelike;Survival;Horror;Stealth;Card+Games" alt="Typing SVG" />
 </div>
 
 <p align="center">
