@@ -15,7 +15,7 @@
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&center=true&vCenter=true&width=600&lines=Haseeb+Z;Unity;Unreal;Godot;Solar2D;GameMaker;Blender" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&center=true&vCenter=true&width=600&lines=Haseeb+Z;UNITY;UNREAL;GODOT;Solar2D;GAME+MAKER;BLENDER" alt="Typing SVG" />
 </div>
 
 <h3 align="center">An experienced Unity Developer with a passion for game creation</h3>
