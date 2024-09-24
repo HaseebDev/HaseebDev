@@ -15,12 +15,8 @@
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Haseeb+Z;Hyper-Casual;FPS;TPS;Puzzle;Adventure;RPG;Strategy;Simulation;Racing;Sports;Fighting;MOBA;Open+World;Platformer;Roguelike;Survival;Horror;Stealth;Card+Games" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&center=true&vCenter=true&width=600&lines=Haseeb+Z;Unity;Unreal;Godot;Solar2D;GameMaker;Blender" alt="Typing SVG" />
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HaseebDev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 <h3 align="center">An experienced Unity Developer with a passion for game creation</h3>
 
