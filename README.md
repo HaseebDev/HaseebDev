@@ -1,4 +1,4 @@
-# Hi there, I'm Haseeb Z 👋![waving-hand]([https://your-image-link-here.gif](https://giphy.com/gifs/waving-botak-hand-h0zTKiR9tGZrcf4J1q))
+# Hi there, I'm Haseeb Z 👋!
 
 I'm an **Experienced Unity Developer** with over 7+ years of expertise in writing clean code and building innovative game prototypes. My focus is on developing unique game controllers and templates, having worked across various game genres, from Hyper-Casual to FPS/TPS. My background in 3D modeling (primarily Blender) gives me an edge in understanding optimizations and how things work in a 3D space.
 
