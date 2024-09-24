@@ -15,14 +15,14 @@
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&center=true&vCenter=true&width=600&lines=Haseeb+Z;UNITY;UNREAL;GODOT;Solar2D;GAME+MAKER;BLENDER" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&center=true&vCenter=true&width=600&lines=Haseeb+Z;Unity;Unreal;Godot;Solar2D;GameMaker;Blender" alt="Typing SVG" />
 </div>
 
 <h3 align="center">An experienced Unity Developer with a passion for game creation</h3>
 
 <p align="center">
   <a href="mailto:ch_join@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/HaseebDev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/haseeb-zahid-357838211/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
