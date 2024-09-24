@@ -69,7 +69,7 @@ As my skills grew, so did my understanding of various engines. I explored <stron
 ---
 
 - 🔭 I'm currently working on [MultiPlayer Tic Tac Toe](https://github.com/BadranRaza/Multiplayer-Tic-Tac-Toe)
-- ## 🌱 Currently Learning - Advanced shader programming in Unity
+- 🌱 Currently Learning - Advanced Shader Programming in Unity
 - 💬 Feel free to ask me anything or collaborate!
 - 📫 How to reach me: [ch_join@hotmail.com](mailto:ch_join@hotmail.com)
 
