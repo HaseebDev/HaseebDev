@@ -2,7 +2,7 @@
   This empty comment pushes the visible content down
 -->
 
-🧑‍🏫 Haseeb Z
+🧑‍🏫 <strong>Haseeb Z</strong>
 
 I'm an **Experienced Unity Developer** with over 7+ years of expertise in writing clean code and building innovative game prototypes. My focus is on developing unique game controllers and templates, having worked across various game genres, from Hyper-Casual to FPS/TPS. My background in 3D modeling (primarily Blender) gives me an edge in understanding optimizations and how things work in a 3D space.
 
