@@ -23,6 +23,7 @@
 <p align="center">
   <a href="mailto:ch_join@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/haseeb-zahid-357838211/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.upwork.com/freelancers/haseebzahid"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/></a>
 </p>
 
 ---
@@ -68,7 +69,7 @@ As my skills grew, so did my understanding of various engines. I explored <stron
 ---
 
 - 🔭 I'm currently working on [MultiPlayer Tic Tac Toe](https://github.com/BadranRaza/Multiplayer-Tic-Tac-Toe)
-- 🌱 I'm learning new tools and techniques for game optimization and design
+- ## 🌱 Currently Learning - Advanced shader programming in Unity
 - 💬 Feel free to ask me anything or collaborate!
 - 📫 How to reach me: [ch_join@hotmail.com](mailto:ch_join@hotmail.com)
 
