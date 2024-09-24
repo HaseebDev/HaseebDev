@@ -14,7 +14,7 @@ Alongside my development work, my **IT degree** has strengthened my knowledge of
 ---
 
 <details>
-<summary>**My Journey**</summary>
+<summary>My Journey</summary>
 
 When I was 5, I fell in love with video games. Those early days were full of wonder as I spent hours immersed in play, all the while dreaming of making games myself one day. At the time, I didn’t know how game development worked, but the passion to create never left me.
 
@@ -31,4 +31,4 @@ As my skills grew, so did my understanding of various engines. I explored **Unre
 - 💬 Feel free to ask me anything or collaborate! [Contact me here](mailto:youremail@example.com)
 - 📫 How to reach me: [youremail@example.com](mailto:youremail@example.com)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HaseebDev&show_icons=true)
