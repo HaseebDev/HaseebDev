@@ -13,7 +13,7 @@
 ---
 
 <p>
-I'm an <strong>Experienced Unity Developer</strong> with over 7+ years of expertise in writing clean code and building innovative game prototypes. My focus is on developing unique game controllers and templates, having worked across various game genres, from Hyper-Casual to FPS/TPS. My background in 3D modeling (primarily Blender) gives me an edge in understanding optimizations and how things work in a 3D space.
+I'm an <strong>Experienced Unity Developer</strong> with over 10+ years of expertise in writing clean code and building innovative game prototypes. My focus is on developing unique game controllers and templates, having worked across various game genres, from Hyper-Casual to FPS/TPS. My background in 3D modeling (primarily Blender) gives me an edge in understanding optimizations and how things work in a 3D space.
 
 Alongside my development work, my <strong>IT degree</strong> has strengthened my knowledge of networking and hardware-level operations, allowing me to solve technical challenges with ease. I bring a combination of creativity and technical know-how to every project, always ready to dive into problem-solving and building better solutions.
 </p>
